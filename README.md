@@ -1,5 +1,5 @@
 <title> Website Hosting</title>
-<h1> Loading.........</h1>
+<marquee> <h1> Loading.........</h1> </marquee>
 <marquee> Welcome to my website  </marquee>
 
 # hosting.github.io
